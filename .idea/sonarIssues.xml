@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.regexp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/myWorkSpace/Test/Ebk.dal/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/myWorkSpace/Test/Ebk.dal/src/main/java/com/ctrip/hotel/merchant/data/ebookingdb/dao/HotelInfoOperateLogDAO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/myWorkSpace/Test/Ebk.dal/src/main/java/com/ctrip/hotel/merchant/data/ebookingdb/dao/MsgRemindUserHotelDAO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/myWorkSpace/Test/Ebk.dal/src/main/resources/mybatis/ebookingdb/mapper/CreditCardReadPwdMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/myWorkSpace/Test/Ebk.dal/src/main/resources/mybatis/ebookingdb/mapper/HotelInfoOperateLogMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/myWorkSpace/Test/Ebk.dal/src/main/resources/mybatis/ebookingdb/mapper/HotelReplyLogMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/myWorkSpace/Test/Ebk.dal/src/main/resources/mybatis/ebookingdb/mapper/MsgRemindUserHotelMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/myWorkSpace/Test/Ebk.dal/src/main/resources/mybatis/ebookingdb/mapper/PHotelMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/myWorkSpace/Test/Ebk.dal/src/main/resources/mybatis/ebookingdb/mapper/PwdResetMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/myWorkSpace/javaEBK/Ebkroom-service/roominfo.biz/src/main/java/com/ctrip/hotel/merchant/ebk/roominfo/biz/main/InsertPromotionRoomBiz.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/MyDocument/nettybook2/com/sun/proxy/$Proxy0.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/MyDocument/nettybook2/com/sun/proxy/$Proxy1.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/MyDocument/nettybook2/src/com/annotation/HelloAnnotation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/MyDocument/nettybook2/src/com/annotation/TestAnnotatiom.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/MyDocument/nettybook2/src/com/dynamicProx/RealCglibSubject.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/MyDocument/nettybook2/src/com/dynamicProx/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/MyDocument/nettybook2/src/com/test/TestDate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/ex05/pyrmont/startup/Bootstrap1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/org/apache/catalina/connector/http/HttpConnector.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/org/apache/catalina/connector/http/HttpProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
